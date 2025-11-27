@@ -194,6 +194,7 @@ a {
 
 .project-content {
   width: 100%;
+  /* max-width: 1200px; */
   height: auto;
   display: flex;
   flex-direction: column;
